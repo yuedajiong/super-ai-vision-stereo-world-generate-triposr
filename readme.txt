@@ -3,4 +3,6 @@
 3. put your .obj files under ./data/image/resin/{lion}/, and run .py under ./code/: superv_01_data_01_mesh.py -> superv_01_data_02_focus.py -> superv_01_data_03_split.py
 4. check code in superv.py, commnet or uncomment 'infer/train' lines.  (the infer code fully compatible to official TripoSR,  the tarin code configured for small network.)
 
+#logic correct, no distributed version, no large scale train. 
+
 have fun.
